@@ -422,6 +422,18 @@ code {
   a > code {
     color: inherit; }
 
+.button-container {
+      text-align: center;
+      margin-top: 20px;
+  }
+  .navigation-button {
+      padding: 10px 20px;
+      background-color: #5d6a78;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+  }
+  
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
